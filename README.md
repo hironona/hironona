@@ -17,7 +17,7 @@ I am fascinated by the intersection of artificial intelligence and human intelli
 
 ---
 
-### 🚀 Projects
+<!-- ### 🚀 Projects
 
 #### [FARCER](https://github.com/hironcode/farcer.git): Multimodal LLM (VLM) architecture pushing the boundaries of emotion recognition:  
 - 🖼️ Integrates lightweight linear layers as a vision encoder.  
@@ -29,4 +29,4 @@ I am fascinated by the intersection of artificial intelligence and human intelli
 
 #### [Multi-Agent Simulation](https://github.com/hironcode/evolutionary_language_model.git) of Evolutionary Psychology (WIP)
 - 🌍 Simulates **cultural evolution** using small LMs and genetic algorithms.  
-- 🧬 Explores **multi-agent interactions** inspired by evolutionary psychology.  
+- 🧬 Explores **multi-agent interactions** inspired by evolutionary psychology.   -->
