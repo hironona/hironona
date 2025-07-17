@@ -1,6 +1,6 @@
 # 🤖 *Intelligence* in Artificial Intelligence 🧠
 
-I am fascinated by the intersection of artificial intelligence and human intelligence. I know how intelligence works through the lenses of deep learning:
+I am fascinated by the intersection of artificial intelligence and human intelligence. I want to know how intelligence works through the lenses of deep learning:
 
 >**Geometries of learned representation spaces in deep learning, esp. LLMs and VLMs**
 
