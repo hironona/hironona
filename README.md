@@ -2,9 +2,11 @@
 
 I am fascinated by the intersection of artificial intelligence and human intelligence. I know how intelligence works through the lenses of deep learning:
 
->Geometries of learned representation spaces in deep learning, esp. LLMs and VLMs <br/><br/>
->Generative models as the approximation of reality <br/><br/>
->World models in language models and model-based reinforcement learning
+>**Geometries of learned representation spaces in deep learning, esp. LLMs and VLMs**
+
+>**Generative models as the approximation of reality**
+
+>**World models in language models and model-based reinforcement learning**
 
 ---
 
