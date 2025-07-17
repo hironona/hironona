@@ -1,21 +1,27 @@
-# 🤖 Artificial Intelligence and Human Intelligence 🧠
+# 🤖 *Intelligence* in Artificial Intelligence 🧠
 
-I am fascinated by the intersection of artificial intelligence and human intelligence. I want to uncover various mysteries of human consciousness through the lenses of machine learning:
+I am fascinated by the intersection of artificial intelligence and human intelligence. I know how intelligence works through the lenses of deep learning:
 
-`How is spatio-temporal cognition acquired in artificial intelligence?`
-
-`How do machine "minds" evolve through genetic dynamics and individual learning?`
-
-`Can generative algorithms illuminate how humans approximate reality through intersubjective perspectives?`
+>Geometries of learned representation spaces in deep learning, esp. LLMs and VLMs <br/><br/>
+>Generative models as the approximation of reality <br/><br/>
+>World models in language models and model-based reinforcement learning
 
 ---
 
 ### 📚 Research Topics
-
-- **Model-Based Reinforcement Learning**
+- **Interpretability**
 - **Language Models**
+- **Model-Based Reinforcement Learning**
 
 ---
+
+### 📑 Favorite Papers
+
+I wish this list talks about my research interests.
+
+🔎 [The Platonic Representation Hypothesis](https://arxiv.org/abs/2405.07987) (Huh et al., 2024)<br/>
+🌏 [Language Models Represent Space and Time](https://arxiv.org/abs/2310.02207) (Gurnee and Tegmark, 2024)<br/>
+💎 [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104) (Hafner et al., 2023)
 
 <!-- ### 🚀 Projects
 
